@@ -7,6 +7,9 @@ This documentation helps in creating box plots reflecting alpha diversity using 
 ## Expected visualizations
 ![Sample of a alpha diversity boxplot](https://raw.githubusercontent.com/JulienSimonin/Best-Project/refs/heads/main/Sample%20Photo.jpg)
 
+## Sample publications
+This type of visualization can be used for analyzing the biodiversity of multiple communities. This is a [sample publication](https://smujo.id/biodiv/article/view/13590) that utizilies such graph.
+
 ## Steps in creating boxplots in R
 - Set working directory
 ```
