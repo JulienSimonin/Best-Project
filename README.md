@@ -1,5 +1,5 @@
-# Best-Project
-Repository of the best project of the best group
-## Team members :
+# Best-Project : 
+This page present the "Tara-OCEAN" projects and the results of one of the expedition
+## Team member :
 - Julien SIMONIN
-- 
+### : 
