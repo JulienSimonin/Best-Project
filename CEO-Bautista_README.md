@@ -1,4 +1,4 @@
-# Doing Alpha-diversity assessment in R 
+# Alpha-diversity assessment in R 
 By Christian Elmarc O. Bautista
 
 ## About documentation
