@@ -5,7 +5,7 @@ By Christian Elmarc O. Bautista
 This documentation helps in creating box plots reflecting alpha diversity using vegan and ggplot2 packages in R.
 
 ## Expected visualizations
-![Sample of a alpha diversity boxplot]([https://d3i71xaburhd42.cloudfront.net/c4095f57df2245ee90888e265f3149447d2e95a6/6-Figure5-1.png](https://raw.githubusercontent.com/JulienSimonin/Best-Project/refs/heads/main/Sample%20Photo.jpg))
+![Sample of a alpha diversity boxplot](https://raw.githubusercontent.com/JulienSimonin/Best-Project/refs/heads/main/Sample%20Photo.jpg)
 
 ## Steps in creating boxplots in R
 - Set working directory
