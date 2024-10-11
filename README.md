@@ -1,5 +1,7 @@
 # Best-Project : 
-This page present the "Tara-OCEAN" projects and the results of one of the expedition
+This page repository present the different project of the team members
 ## Team member :
 - Julien SIMONIN
+- Mikael Harnold
+- 
 ### : 
